@@ -1,0 +1,46 @@
+Created by zed on 4.12.2020
+
+# <environment> İÇİN LOGİNSİZ DEVAM ET
+* <environment> ortamında çalıştır
+* Testi başlat
+* "SAĞLIK CÜZDANI KAPAT" objesi varsa tıkla
+//* "KABUL EDİYORUM" objesi varsa tıkla
+* "UYGULAMAMIZA HOŞ GELDİNİZ DEVAM ET" objesi varsa tıkla
+Created by zed on 4.12.2020
+
+# ANDROİD İÇİN LOGİN OL
+* "AND" ortamında çalıştır
+* Testi başlat
+* Giriş bilgilerini bul. TCKN değerini "TCKN" değişkenine PAROLA değerini "PASS" değişkenine kaydet
+* "TANITIM EKRANI KAPAT BUTONU" objesi varsa tıkla
+* "SAĞLIK CÜZDANI KAPAT" objesi varsa tıkla
+
+
+
+# IOS İÇİN LOGİN OL
+* "IOS" ortamında çalıştır
+* Testi başlat
+* Giriş bilgilerini bul. TCKN değerini "TCKN" değişkenine PAROLA değerini "PASS" değişkenine kaydet
+//* "TANITIM EKRANI KAPAT BUTONU" objesi varsa tıkla
+//* "SAĞLIK CÜZDANI KAPAT" objesi varsa tıkla
+* "KARŞILAMA EKRANI GİRİŞ YAP" objesine tıkla
+* "TC KİMLİK NUMARASI" alanına "TCKN" değişkenini yaz
+* "ŞİFRENİZ" alanına "PASS" değişkenini yaz
+* "KLAVYE KAPATMA" objesi varsa tıkla
+* "BENİ HATIRLA" objesine tıkla
+* "GİRİŞ YAP" objesine tıkla
+* "KULLANICI İZNİ ONAYLIYORUM BUTONU" objesi varsa tıkla
+* "GİRİŞ YAP" objesi varsa tıkla
+//* "ŞİFRESİZ GİRİŞ YAP HAYIR" objesi varsa tıkla
+//* "GİRİŞ SONRASI KABUL EDİYORUM" objesi varsa tıkla
+* "UYGULAMAMIZA HOŞ GELDİNİZ DEVAM ET" objesi varsa tıkla
+
+
+
+//* "KARŞILAMA EKRANI GİRİŞ YAP" objesine tıkla
+//* "TC KİMLİK NUMARASI" alanına "TCKN" değişkenini yaz
+//* "ŞİFRENİZ" alanına "PASS" değişkenini yaz
+//* "GİRİŞ YAP" objesine tıkla
+//* "ŞİFRESİZ GİRİŞ YAP HAYIR" objesi varsa tıkla
+//* "GİRİŞ SONRASI KABUL EDİYORUM" objesi varsa tıkla
+//* "UYGULAMAMIZA HOŞ GELDİNİZ DEVAM ET" objesi varsa tıkla

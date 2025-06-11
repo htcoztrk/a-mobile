@@ -1,0 +1,114 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+{"logLevel":"debug","message":"gauge-java took 502milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 502"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 57185"}
+{"logLevel":"info","message":"Listening on port:57185"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'allianz.core.implementation.StepImplementation.clickWithActions' and 'allianz.core.implementation.StepImplementation.clickWithActions'"}
+{"logLevel":"debug","message":"Found {} objesine AC ile tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'allianz.core.implementation.StepImplementation.checkIfDisabled' and 'allianz.core.implementation.StepImplementation.checkIfDisabled'"}
+{"logLevel":"debug","message":"Found {} objesinin tıklanabilir olmadığını kontrol et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'allianz.core.implementation.StepImplementation.wait' and 'allianz.core.implementation.StepImplementation.wait'"}
+{"logLevel":"debug","message":"Found {} saniye bekle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'allianz.core.implementation.StepImplementation.checkIfEnabled' and 'allianz.core.implementation.StepImplementation.checkIfEnabled'"}
+{"logLevel":"debug","message":"Found {} objesinin tıklanabilir olduğunu kontrol et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'allianz.core.implementation.StepImplementation.sendKeys' and 'allianz.core.implementation.StepImplementation.sendKeys'"}
+{"logLevel":"debug","message":"Found {} alanına {} yaz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'allianz.core.base.BaseTest.setEnvironment' and 'allianz.core.base.BaseTest.setEnvironment'"}
+{"logLevel":"debug","message":"Found {} ortamında çalıştır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'allianz.core.implementation.StepImplementation.swipeScreen' and 'allianz.core.implementation.StepImplementation.swipeScreen'"}
+{"logLevel":"debug","message":"Found {} kaydır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'allianz.core.implementation.StepImplementation.checkIsTheObjectDoesntExist' and 'allianz.core.implementation.StepImplementation.checkIsTheObjectDoesntExist'"}
+{"logLevel":"debug","message":"Found {} objesinin yokluğunu kontrol et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'allianz.core.implementation.StepImplementation.implementation2' and 'allianz.core.implementation.StepImplementation.implementation2'"}
+{"logLevel":"debug","message":"Found Mobil Data excel dosyasını temizle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'allianz.core.implementation.StepImplementation.checkIsTheObjectExist' and 'allianz.core.implementation.StepImplementation.checkIsTheObjectExist'"}
+{"logLevel":"debug","message":"Found {} objesi var mı kontrol et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'allianz.core.base.BaseTest.startTest' and 'allianz.core.base.BaseTest.startTest'"}
+{"logLevel":"debug","message":"Found Testi başlat in current project scope."}
+{"logLevel":"debug","message":"Comparing 'allianz.core.implementation.StepImplementation.checkIfObjectContainsTextValue' and 'allianz.core.implementation.StepImplementation.checkIfObjectContainsTextValue'"}
+{"logLevel":"debug","message":"Found {} objesi text değeri içeriyor mu kontrol et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'allianz.core.implementation.StepImplementation.swipeFromObjectUntilTextValueIsSeen' and 'allianz.core.implementation.StepImplementation.swipeFromObjectUntilTextValueIsSeen'"}
+{"logLevel":"debug","message":"Found {} objesinden {} text değeri görüntülenene kadar {} saniye boyunca {} kaydır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'allianz.core.implementation.StepImplementation.implementation1' and 'allianz.core.implementation.StepImplementation.implementation1'"}
+{"logLevel":"debug","message":"Found {} alanına {} değişkenini yaz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'allianz.core.implementation.StepImplementation.clickIfExist' and 'allianz.core.implementation.StepImplementation.clickIfExist'"}
+{"logLevel":"debug","message":"Found {} objesi varsa tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'allianz.core.implementation.StepImplementation.click' and 'allianz.core.implementation.StepImplementation.click'"}
+{"logLevel":"debug","message":"Found {} objesine tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'allianz.core.implementation.StepImplementation.clickWithCoordinate' and 'allianz.core.implementation.StepImplementation.clickWithCoordinate'"}
+{"logLevel":"debug","message":"Found {} X ve {} Y Koordinatları ile tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'allianz.core.implementation.StepImplementation.waitTillTheObjectVisible' and 'allianz.core.implementation.StepImplementation.waitTillTheObjectVisible'"}
+{"logLevel":"debug","message":"Found {} objesi görüntülenene kadar bekle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'allianz.core.implementation.StepImplementation.clear' and 'allianz.core.implementation.StepImplementation.clear'"}
+{"logLevel":"debug","message":"Found {} alanını temizle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'allianz.core.implementation.StepImplementation.swipeOnObject' and 'allianz.core.implementation.StepImplementation.swipeOnObject'"}
+{"logLevel":"debug","message":"Found {} objesinden {} kaydır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'allianz.core.implementation.StepImplementation.findProperLoginDataAndThenSaveToUserVariable' and 'allianz.core.implementation.StepImplementation.findProperLoginDataAndThenSaveToUserVariable'"}
+{"logLevel":"debug","message":"Found Giriş bilgilerini bul. TCKN değerini {} değişkenine PAROLA değerini {} değişkenine kaydet in current project scope."}
+{"logLevel":"debug","message":"Comparing 'allianz.core.implementation.StepImplementation.checkIfObjectHasGivenTextValue' and 'allianz.core.implementation.StepImplementation.checkIfObjectHasGivenTextValue'"}
+{"logLevel":"debug","message":"Found {} objesi {} text değerini içeriyor mu kontrol et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'allianz.core.implementation.StepImplementation.bosTest' and 'allianz.core.implementation.StepImplementation.bosTest'"}
+{"logLevel":"debug","message":"Found bu senaryonun implementasyonu sonra yapılacak in current project scope."}
+{"logLevel":"debug","message":"Comparing 'allianz.core.implementation.StepImplementation.waitUntilTextLoadedIntoPageSource' and 'allianz.core.implementation.StepImplementation.waitUntilTextLoadedIntoPageSource'"}
+{"logLevel":"debug","message":"Found Sayfa üzerinde {} değeri var mı kontrol et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'allianz.core.implementation.StepImplementation.removeApplication' and 'allianz.core.implementation.StepImplementation.removeApplication'"}
+{"logLevel":"debug","message":"Found Uygulamayı sil in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\t{} kaydır : public void swipeScreen(String yon)"}
+{"logLevel":"debug","message":"\t{} X ve {} Y Koordinatları ile tıkla : public void clickWithCoordinate(int x, int y)"}
+{"logLevel":"debug","message":"\t{} objesine AC ile tıkla : public void clickWithActions(String key)"}
+{"logLevel":"debug","message":"\t{} alanını temizle : public void clear(String key)"}
+{"logLevel":"debug","message":"\t{} objesinin yokluğunu kontrol et : public void checkIsTheObjectDoesntExist(String key)"}
+{"logLevel":"debug","message":"\t{} objesinden {} text değeri görüntülenene kadar {} saniye boyunca {} kaydır : public void swipeFromObjectUntilTextValueIsSeen(String key, String value, String duration, String direction)"}
+{"logLevel":"debug","message":"\t{} objesi var mı kontrol et : public void checkIsTheObjectExist(String key)"}
+{"logLevel":"debug","message":"\t{} saniye bekle : public void wait(int second)"}
+{"logLevel":"debug","message":"\t{} alanına {} değişkenini yaz : public void implementation1(String key, String variableName)"}
+{"logLevel":"debug","message":"\t{} objesinin tıklanabilir olduğunu kontrol et : public void checkIfEnabled(String key)"}
+{"logLevel":"debug","message":"\t{} ortamında çalıştır : public void setEnvironment(String environment)"}
+{"logLevel":"debug","message":"\t{} objesi text değeri içeriyor mu kontrol et : public void checkIfObjectContainsTextValue(String key)"}
+{"logLevel":"debug","message":"\t{} objesi varsa tıkla : public void clickIfExist(String key)"}
+{"logLevel":"debug","message":"\t{} objesi görüntülenene kadar bekle : public void waitTillTheObjectVisible(String key)"}
+{"logLevel":"debug","message":"\t{} objesi {} text değerini içeriyor mu kontrol et : public void checkIfObjectHasGivenTextValue(String key, String value)"}
+{"logLevel":"debug","message":"\tGiriş bilgilerini bul. TCKN değerini {} değişkenine PAROLA değerini {} değişkenine kaydet : public void findProperLoginDataAndThenSaveToUserVariable(String tckn, String pass)"}
+{"logLevel":"debug","message":"\tUygulamayı sil : public void removeApplication()"}
+{"logLevel":"debug","message":"\t{} objesinin tıklanabilir olmadığını kontrol et : public void checkIfDisabled(String key)"}
+{"logLevel":"debug","message":"\t{} objesine tıkla : public void click(String key)"}
+{"logLevel":"debug","message":"\tMobil Data excel dosyasını temizle : public void implementation2()"}
+{"logLevel":"debug","message":"\tTesti başlat : public void startTest()"}
+{"logLevel":"debug","message":"\tSayfa üzerinde {} değeri var mı kontrol et : public void waitUntilTextLoadedIntoPageSource(String text)"}
+{"logLevel":"debug","message":"\t{} alanına {} yaz : public void sendKeys(String key, String value)"}
+{"logLevel":"debug","message":"\tbu senaryonun implementasyonu sonra yapılacak : public void bosTest()"}
+{"logLevel":"debug","message":"\t{} objesinden {} kaydır : public void swipeOnObject(String key, String direction)"}
+2022-12-28 14:10:24 INFO  BaseTest:[20 ] - ********** AMBULANSI ARA SENARYOSU BAŞLADI **********
+{"logLevel":"debug","message":"Executing '{} ortamında çalıştır' using 'class allianz.core.base.BaseTest.setEnvironment"}
+{"logLevel":"debug","message":"Executing 'Testi başlat' using 'class allianz.core.base.BaseTest.startTest"}
+2022-12-28 14:10:24 INFO  AllianzGlobalConfig:[25 ] - ********** KONFİGÜRASYON BİLGİLERİ **********
+2022-12-28 14:10:24 INFO  AllianzGlobalConfig:[26 ] - Varsayılan bekleme süresi: 30 saniye
+2022-12-28 14:10:24 INFO  AllianzGlobalConfig:[27 ] - Objelerin milisaniye cinsinden kontrol edilme süresi: 500
+2022-12-28 14:10:24 INFO  AllianzGlobalConfig:[28 ] - Telefon adı: 'GALAXY_A70'
+2022-12-28 14:10:24 INFO  AllianzGlobalConfig:[29 ] - Telefon versiyonu: ''
+2022-12-28 14:10:24 INFO  AllianzGlobalConfig:[30 ] - Test Android platformunda mı çalışıyor?: true
+2022-12-28 14:10:24 INFO  AllianzGlobalConfig:[31 ] - ********** KONFİGÜRASYON BİLGİLERİ **********
+{"logLevel":"debug","message":"Executing 'Giriş bilgilerini bul. TCKN değerini {} değişkenine PAROLA değerini {} değişkenine kaydet' using 'class allianz.core.implementation.StepImplementation.findProperLoginDataAndThenSaveToUserVariable"}
+2022-12-28 14:10:24 INFO  ExcelOperation:[44 ] - 'SELECT * FROM "Mobile_Regression_Data" WHERE "TELEFON_ADI" ='GALAXY_A70' AND "SENARYO_ADI" ='Ambulansı Ara'' komutu çalıştırıldı.
+2022-12-28 14:10:24 INFO  StepImplementation:[126] - ---------- SORGU SONUCU ----------
+2022-12-28 14:10:24 INFO  StepImplementation:[132] - USERNAME: '10010533856' PASSWORD: 'Kalem2016'
+2022-12-28 14:10:24 INFO  StepImplementation:[134] - ---------- SORGU SONUCU ----------
+2022-12-28 14:10:24 INFO  UserVariable:[19 ] - 'TCKN' değişkenine '10010533856' değeri atandı
+2022-12-28 14:10:24 INFO  UserVariable:[19 ] - 'PASS' değişkenine 'Kalem2016' değeri atandı
+{"logLevel":"debug","message":"Executing '{} objesi varsa tıkla' using 'class allianz.core.implementation.StepImplementation.clickIfExist"}
+{"logLevel":"debug","message":"Executing '{} objesi varsa tıkla' using 'class allianz.core.implementation.StepImplementation.clickIfExist"}
+{"logLevel":"debug","message":"Executing '{} objesi görüntülenene kadar bekle' using 'class allianz.core.implementation.StepImplementation.waitTillTheObjectVisible"}
+2022-12-28 14:10:24 ERROR WaitOperation:[60 ] - 'HASARIM VAR MYALLİANZ' objesi sayfa üzerinde görünür olması beklenirken sorun oluştu!
+2022-12-28 14:10:25 INFO  BaseTest:[27 ] - ********** AMBULANSI ARA SENARYOSU BİTTİ **********
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}

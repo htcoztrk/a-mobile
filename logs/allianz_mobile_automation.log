@@ -1,0 +1,3 @@
+2022-12-28 14:14:56 INFO  BaseTest:[20 ] - ********** HASARIM VAR LOGINSIZ SENARYOSU BAŞLADI **********
+2022-12-28 14:14:56 ERROR IdentityManager:[29 ] - 'TANITIM EKRANI KAPAT BUTONU' keyine ait locator bulunamadı!
+2022-12-28 14:14:57 INFO  BaseTest:[27 ] - ********** HASARIM VAR LOGINSIZ SENARYOSU BİTTİ **********

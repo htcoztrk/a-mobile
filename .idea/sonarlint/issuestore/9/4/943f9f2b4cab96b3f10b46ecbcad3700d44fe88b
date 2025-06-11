@@ -1,0 +1,19 @@
+
+d
+java:S1192U"GDefine a constant instead of duplicating this literal "YUKARI" 3 times.(¥Ã’Ó8ğ¼ı™Õ0
+e
+java:S1192X"HDefine a constant instead of duplicating this literal "AÅAÄI" 3 times.(„«ø8ğ¼ı™Õ0
+X	java:S125y"<This block of commented-out lines of code should be removed.(˜³»Õ8ˆ½ı™Õ0
+`
+java:S1117}">Rename "logMessage" which hides the field declared at line 25.(™‹¶¶ıÿÿÿÿ8ˆ½ı™Õ0
+^	java:S125"<This block of commented-out lines of code should be removed.( ğ¢¾ıÿÿÿÿ8‰½ı™Õ0
+\
+java:S1117‹">Rename "logMessage" which hides the field declared at line 25.(”»ÅÖ8½ı™Õ0
+a
+java:S1117•">Rename "logMessage" which hides the field declared at line 25.(´Òí±ÿÿÿÿÿ8½ı™Õ0
+a
+java:S1117¥">Rename "logMessage" which hides the field declared at line 25.(´Òí±ÿÿÿÿÿ8½ı™Õ0
+N
+java:S1128",Remove this unused import 'java.sql.Driver'.(”óäŠÿÿÿÿÿ8ûÍ¤óõ2
+M
+java:S5960?"+Remove this assertion from production code.(£îŒÿûÿÿÿÿ8½ı™Õ0

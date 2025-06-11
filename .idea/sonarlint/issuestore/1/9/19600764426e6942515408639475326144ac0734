@@ -1,0 +1,21 @@
+
+o
+java:S3252"RUse static access with "org.openqa.selenium.remote.CapabilityType" for "PLATFORM".(ì¾ø‡8Ñ¼ý™Õ0
+M
+java:S1874"0Remove this use of "PLATFORM"; it is deprecated.(ì¾ø‡8Ñ¼ý™Õ0
+X	java:S125%"<This block of commented-out lines of code should be removed.(ó„ŽÈ8Ñ¼ý™Õ0
+G	java:S106,"+Replace this use of System.out by a logger.(þÙí8Ò¼ý™Õ0
+W	java:S125/"<This block of commented-out lines of code should be removed.(ÐÑÓB8Ò¼ý™Õ0
+L	java:S106L"+Replace this use of System.out by a logger.(‡×ÞÉûÿÿÿÿ8Ô¼ý™Õ0
+W	java:S125O"<This block of commented-out lines of code should be removed.(ÐÑÓB8Ô¼ý™Õ0
+]	java:S125T"<This block of commented-out lines of code should be removed.(Ž ¼Æþÿÿÿÿ8Õ¼ý™Õ0
+]	java:S125\"<This block of commented-out lines of code should be removed.(¼ÇÇàùÿÿÿÿ8Õ¼ý™Õ0
+]	java:S125_"<This block of commented-out lines of code should be removed.(ýŒ²óþÿÿÿÿ8Õ¼ý™Õ0
+V
+java:S1128"9Remove this unused import 'org.openqa.selenium.Platform'.(…§èÌ8ªÐ¤óõ2
+N
+java:S1068",Remove this unused "PROP_KEY" private field.(Ù±ñ¿ÿÿÿÿÿ8Ö¼ý™Õ0
+S
+java:S1068"1Remove this unused "PROP_APPTOKEN" private field.(îì½©ûÿÿÿÿ8Ö¼ý™Õ0
+N
+java:S1068"1Remove this unused "PROP_PLATFORM" private field.(“ïõ¸8Ö¼ý™Õ0
