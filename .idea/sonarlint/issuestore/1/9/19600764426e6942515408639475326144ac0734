@@ -1,21 +1,23 @@
 
-o
-java:S3252"RUse static access with "org.openqa.selenium.remote.CapabilityType" for "PLATFORM".(ì¾ø‡8Ñ¼ý™Õ0
-M
-java:S1874"0Remove this use of "PLATFORM"; it is deprecated.(ì¾ø‡8Ñ¼ý™Õ0
-X	java:S125%"<This block of commented-out lines of code should be removed.(ó„ŽÈ8Ñ¼ý™Õ0
-G	java:S106,"+Replace this use of System.out by a logger.(þÙí8Ò¼ý™Õ0
-W	java:S125/"<This block of commented-out lines of code should be removed.(ÐÑÓB8Ò¼ý™Õ0
-L	java:S106L"+Replace this use of System.out by a logger.(‡×ÞÉûÿÿÿÿ8Ô¼ý™Õ0
-W	java:S125O"<This block of commented-out lines of code should be removed.(ÐÑÓB8Ô¼ý™Õ0
-]	java:S125T"<This block of commented-out lines of code should be removed.(Ž ¼Æþÿÿÿÿ8Õ¼ý™Õ0
-]	java:S125\"<This block of commented-out lines of code should be removed.(¼ÇÇàùÿÿÿÿ8Õ¼ý™Õ0
-]	java:S125_"<This block of commented-out lines of code should be removed.(ýŒ²óþÿÿÿÿ8Õ¼ý™Õ0
-V
-java:S1128"9Remove this unused import 'org.openqa.selenium.Platform'.(…§èÌ8ªÐ¤óõ2
+•
+java:S3252"RUse static access with "org.openqa.selenium.remote.CapabilityType" for "PLATFORM".(ì¾ø‡8Ñ¼ý™Õ0J$63f2675f-39a2-4719-973a-28d02e63501d
+s
+java:S1874"0Remove this use of "PLATFORM"; it is deprecated.(ì¾ø‡8Ñ¼ý™Õ0J$e61b4c44-8341-4df1-9c3c-8e9839a63f86
+~	java:S125%"<This block of commented-out lines of code should be removed.(ó„ŽÈ8Ñ¼ý™Õ0J$e101e6bf-4073-4aae-ace5-b70003429b2a
+m	java:S106,"+Replace this use of System.out by a logger.(þÙí8Ò¼ý™Õ0J$e2601e72-f46f-4587-bac2-6cd1b4decd1c
+ƒ	java:S1250"<This block of commented-out lines of code should be removed.(‹ŒÍ øÿÿÿÿ8½óŽôõ2J$9f4fc321-860c-4f36-9af0-4d5f64c59159
+r	java:S106L"+Replace this use of System.out by a logger.(‡×ÞÉûÿÿÿÿ8Ô¼ý™Õ0J$098c4819-706a-43f1-81bc-17d636438446
+]	java:S125P"<This block of commented-out lines of code should be removed.(‹ŒÍ øÿÿÿÿ8ò…ôõ2
+ƒ	java:S125T"<This block of commented-out lines of code should be removed.(Ž ¼Æþÿÿÿÿ8Õ¼ý™Õ0J$2a0eb414-a7a9-446e-b716-a6375a0e5ffa
+ƒ	java:S125\"<This block of commented-out lines of code should be removed.(¼ÇÇàùÿÿÿÿ8Õ¼ý™Õ0J$4838a979-b21b-49d6-94e5-b1755a2801b1
+ƒ	java:S125_"<This block of commented-out lines of code should be removed.(ýŒ²óþÿÿÿÿ8Õ¼ý™Õ0J$8e963ae9-80bc-424b-9f34-11dcf7fd5502
+|
+java:S1128"9Remove this unused import 'org.openqa.selenium.Platform'.(…§èÌ8ªÐ¤óõ2J$08fcc5e6-d2d4-483c-a6b6-f1c468723071
+t
+java:S1068",Remove this unused "PROP_KEY" private field.(Ù±ñ¿ÿÿÿÿÿ8Ö¼ý™Õ0J$84923c02-dae8-4b50-a033-a79896af4792
+y
+java:S1068"1Remove this unused "PROP_APPTOKEN" private field.(îì½©ûÿÿÿÿ8Ö¼ý™Õ0J$415cb85a-2928-4916-a252-07c4ccc01bb4
+t
+java:S1068"1Remove this unused "PROP_PLATFORM" private field.(“ïõ¸8Ö¼ý™Õ0J$96a12a99-4880-4a72-a0bd-302aed6c6c0c
 N
-java:S1068",Remove this unused "PROP_KEY" private field.(Ù±ñ¿ÿÿÿÿÿ8Ö¼ý™Õ0
-S
-java:S1068"1Remove this unused "PROP_APPTOKEN" private field.(îì½©ûÿÿÿÿ8Ö¼ý™Õ0
-N
-java:S1068"1Remove this unused "PROP_PLATFORM" private field.(“ïõ¸8Ö¼ý™Õ0
+java:S1068"1Remove this unused "CAP_CLOUD_KEY" private field.(°ï›8ô…ôõ2

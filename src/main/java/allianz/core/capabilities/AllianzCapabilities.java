@@ -44,8 +44,8 @@ public class AllianzCapabilities {
         System.out.println("---TESTINIUMDA ANDROID TESTE GELDİ!---");
         String testID = System.getenv(PROP_TESTID);
         desiredCapabilities = new DesiredCapabilities();
-        //desiredCapabilities.setCapability("key", System.getenv("key"));
-        desiredCapabilities.setCapability(CAP_CLOUD_KEY, "allianz:c97328a52d6bcf9aac41876f195ad427");
+        desiredCapabilities.setCapability("key", System.getenv("key"));
+        //desiredCapabilities.setCapability(CAP_CLOUD_KEY, "allianz:c97328a52d6bcf9aac41876f195ad427");
         desiredCapabilities.setCapability(CAP_CLOUD_TESTID, testID);
         desiredCapabilities.setCapability(CAP_CLOUD_TAKE_SS, "only_failure"); // "yes", "true", true, false, "no", "off", "only_failure", "ONLY_FAILURE"
         desiredCapabilities.setCapability(CAP_CLOUD_RECORDVIDEO, true);
@@ -76,8 +76,8 @@ public class AllianzCapabilities {
         System.out.println("---TESTINIUMDA IOS TESTE GELDİ!---");
         String testID = System.getenv(PROP_TESTID);
         desiredCapabilities = new DesiredCapabilities();
-        //desiredCapabilities.setCapability("key", System.getenv("key"));
-        desiredCapabilities.setCapability(CAP_CLOUD_KEY, "allianz:c97328a52d6bcf9aac41876f195ad427");
+        desiredCapabilities.setCapability("key", System.getenv("key"));
+        //desiredCapabilities.setCapability(CAP_CLOUD_KEY, "allianz:c97328a52d6bcf9aac41876f195ad427");
         desiredCapabilities.setCapability(CAP_CLOUD_TESTID, testID);
         desiredCapabilities.setCapability(CAP_CLOUD_TAKE_SS, true); // "yes", "true", true, false, "no", "off", "only_failure", "ONLY_FAILURE"
         desiredCapabilities.setCapability(CAP_CLOUD_RECORDVIDEO, true);
