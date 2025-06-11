@@ -21,7 +21,7 @@ public class DriverManager {
     private static URL url;
     private static AppiumDriver<MobileElement> appiumDriver;
     private static final String LOCAL_HOST = "http://0.0.0.0:4723/wd/hub";
-    private static final String TESTINIUM_IO = "http://host.docker.internal:4444";
+    private static final String TESTINIUM_IO = "http://host.docker.internal:4444/wd/hub";
     private static DesiredCapabilities desiredCapabilities;
 
     private DriverManager() {
