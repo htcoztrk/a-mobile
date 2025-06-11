@@ -31,6 +31,7 @@ public class DriverManager {
 
         try {
             if (isTestRunningOnTestinium()) {
+                log.info("Testinium ortamında cihaz bilgileri alınıyor...");
                 AllianzGlobalConfig.CurrentPhoneName = System.getenv("browser");
                 AllianzGlobalConfig.CurrentPhoneVersion = System.getenv("version");
 

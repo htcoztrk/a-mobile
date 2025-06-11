@@ -1,15 +1,13 @@
 
-•
-java:S2293("YReplace the type specification in this constructor call with the diamond operator ("<>").(Ö†áªJ$2edd4c42-f7ca-419f-8dc1-0a3df145f84b
-š
-java:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(é‘àúÿÿÿÿJ$63ccadeb-15be-4c1d-a542-28e585e7231e
-•
-java:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÖñÙÑJ$ded6e850-7a90-4648-b568-f52ef872865c
-š
-java:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹£ıüùÿÿÿÿJ$b551e34b-28d5-4be7-b405-368d4b442e31
-£
-java:S1450"bRemove the "desiredCapabilities" field and declare it as a local variable in the relevant methods.(ÿƒ ÿÿÿÿÿJ$563f11d2-5ef6-4eae-b2b0-9a3ef98172a1
-
-java:S1450"RRemove the "url" field and declare it as a local variable in the relevant methods.(èìòìJ$042ee59b-a782-4c12-a42d-1e02c428673b
-h
-java:S1068"'Remove this unused "log" private field.(»µ¶€ÿÿÿÿÿJ$006a1b8e-13b9-463c-bd57-257d0ff3de78
+v
+java:S2293)"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ö†áª8™Üäóõ2
+{
+java:S2293-"YReplace the type specification in this constructor call with the diamond operator ("<>").(é‘àúÿÿÿÿ8™Üäóõ2
+v
+java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÖñÙÑ8™Üäóõ2
+{
+java:S22937"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹£ıüùÿÿÿÿ8™Üäóõ2
+„
+java:S1450"bRemove the "desiredCapabilities" field and declare it as a local variable in the relevant methods.(ÿƒ ÿÿÿÿÿ8¦Üäóõ2
+o
+java:S1450"RRemove the "url" field and declare it as a local variable in the relevant methods.(èìòì8¦Üäóõ2
